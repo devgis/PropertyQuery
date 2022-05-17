@@ -1,0 +1,11 @@
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\bin\Debug\MyGIS.dll
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\bin\Debug\MyGIS.pdb
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\lixiang\OneDrive\AGIS2015\vs\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

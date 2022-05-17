@@ -1,0 +1,9 @@
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.Form1.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.Form2.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.Form3.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.Properties.Resources.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.csproj.GenerateResource.Cache
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\bin\Debug\Lesson_14.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\bin\Debug\Lesson_14.pdb
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_14\obj\x86\Debug\Lesson_14.pdb

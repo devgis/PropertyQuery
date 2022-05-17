@@ -1,0 +1,10 @@
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\MyGIS.AttributeForm.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\Lesson_16.Form1.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\MyGIS.GISPanel.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\MyGIS.LayerDialog.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\Lesson_16.Properties.Resources.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\Lesson_16.csproj.GenerateResource.Cache
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\bin\Debug\Lesson_16.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\bin\Debug\Lesson_16.pdb
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\Lesson_16.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_16\obj\x86\Debug\Lesson_16.pdb

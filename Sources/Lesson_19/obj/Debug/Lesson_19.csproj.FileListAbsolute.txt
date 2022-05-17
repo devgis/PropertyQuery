@@ -1,0 +1,12 @@
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\bin\Debug\Lesson_19.exe.config
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\bin\Debug\Lesson_19.exe
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\bin\Debug\Lesson_19.pdb
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.csprojResolveAssemblyReference.cache
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\MyGIS.AttributeForm.resources
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\MyGIS.GISPanel.resources
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\MyGIS.LayerDialog.resources
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.Properties.Resources.resources
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.csproj.GenerateResource.Cache
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.exe
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.pdb
+C:\Users\lixiang\OneDrive\GISBook\advanced\AllLessons\Lesson_19\obj\Debug\Lesson_19.Form1.resources

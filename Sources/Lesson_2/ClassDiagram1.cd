@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyGIS.GISFeature" Collapsed="true">
+    <Position X="4.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAABAAIAAAAAAgAAAAAAAAAAAAAAEAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISSpatial" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAAAKAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISExtent" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISVertex" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAABgAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISNode" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISPoint" Collapsed="true">
+    <Position X="5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAABAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISLine" Collapsed="true">
+    <Position X="0.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISPolygon" Collapsed="true">
+    <Position X="2.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGIS.GISAttribute" Collapsed="true">
+    <Position X="6.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAQIAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>BasicClasses.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="微软雅黑" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,16 @@
+C:\Users\lixiang\Downloads\Lesson_6\bin\Debug\Lesson_6.exe
+C:\Users\lixiang\Downloads\Lesson_6\bin\Debug\Lesson_6.pdb
+C:\Users\lixiang\Downloads\Lesson_6\obj\x86\Debug\Lesson_6.Properties.Resources.resources
+C:\Users\lixiang\Downloads\Lesson_6\obj\x86\Debug\Lesson_6.csproj.GenerateResource.Cache
+C:\Users\lixiang\Downloads\Lesson_6\obj\x86\Debug\Lesson_6.exe
+C:\Users\lixiang\Downloads\Lesson_6\obj\x86\Debug\Lesson_6.pdb
+C:\Users\lixiang\Downloads\Lesson_6\obj\x86\Debug\Lesson_6.Form1.resources
+C:\Users\lixiang\OneDrive\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.exe
+C:\Users\lixiang\OneDrive\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.pdb
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.pdb
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\bin\Debug\Lesson_6.exe
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\bin\Debug\Lesson_6.pdb
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.Form1.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.Properties.Resources.resources
+C:\Users\lixiang\OneDrive\GISBook\AllLessons\Lesson_6\obj\x86\Debug\Lesson_6.csproj.GenerateResource.Cache

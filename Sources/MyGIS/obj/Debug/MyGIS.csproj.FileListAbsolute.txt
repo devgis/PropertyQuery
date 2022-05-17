@@ -1,0 +1,10 @@
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\bin\Debug\MyGIS.dll
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\bin\Debug\MyGIS.pdb
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.csprojResolveAssemblyReference.cache
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.AttributeForm.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.GISPanel.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.LayerDialog.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.NetworkForm.resources
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.csproj.GenerateResource.Cache
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.dll
+C:\Users\lixiang\OneDrive\AGIS2015\vs\MyGIS\obj\Debug\MyGIS.pdb
